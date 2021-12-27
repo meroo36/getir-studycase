@@ -9,10 +9,9 @@
 Clone project and install project dependencies with npm
 
 ```bash
-  git clone https://github.com/emreimamoglu/getir-nodejs-case-study.git
-  cd getir-nodejs-case-study
+  git clone https://github.com/meroo36/getir-studycase
+  cd getir-studycase
   npm install
-  cp .env.example .env
 ```
 Before starting the project please provide the environment variables.
 
