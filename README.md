@@ -53,9 +53,9 @@ npm run test
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`MONGO_URI` -> Replace <MONGO_URI> with your DB URI
+`MONGO_URI` -> Mongo URI which Getir gave
 
-`PORT` -> Port server runs on
+`PORT` -> Server port
 
 
 ## Test Output Documentation
