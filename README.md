@@ -21,8 +21,6 @@ To start project on development mode
 npm run dev
 ```
 
-To start project using pm2 service.
-
 ```bash
 npm run start
 
